@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DickyInputBarang</string>
+    <string name="appbar_scrolling_view_behavior">AppBar</string>
+</resources>
